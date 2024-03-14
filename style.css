@@ -1,0 +1,83 @@
+@charset "utf-8";
+
+@font-face {
+    font-family:kg_red_hands ;
+    src: url(kg_red_hands/KGRedHands.ttf);
+}
+
+body {
+    background-color:#c6c6e4 ;
+    height: 70vh;
+    text-align: center;
+    letter-spacing: 2px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul {
+    text-align: center;
+}
+
+button {
+    border-radius: 17px;
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    margin: 9px;
+    text-align: justify;
+    color: grey;
+}
+
+input {
+    border-radius: 17px;
+    padding: 10px;
+   margin-top: 20px;
+   border: none;
+   text-align: justify;
+}
+header {
+    background-color: #8d8ec7;
+    padding: 8px;
+    padding-bottom: 20px;
+    height: 20vh;
+  
+}
+h1 {
+ color: aliceblue;
+ font-size: 40px;
+ font-family:kg_red_hands;
+ margin-top: 20px;
+ 
+}
+
+ul {
+    border: 20px;
+}
+
+.img1 IMG{
+    height: 200px;
+    margin-top: 30px;
+    
+  
+  
+}
+
+
+
+
+footer {
+    background-color: #8d8ec7;
+    height: 10vh;
+    margin-top: 200px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+}
+
+li {
+  
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
